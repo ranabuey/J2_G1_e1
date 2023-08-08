@@ -18,7 +18,7 @@ public class J2_G1_e1 {
         System.out.println("Soy Ruben");
         System.out.println("Soy Mailen");
         System.out.println("Soy titus");
-        System.out.println("joya");
+        System.out.println("Soy Bea");
     }
     
 }
