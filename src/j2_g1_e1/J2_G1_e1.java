@@ -21,6 +21,8 @@ public class J2_G1_e1 {
         System.out.println("Soy Bea");
         System.out.println("polank@gmail.com");
         System.out.println("Soy Sofía");
+        System.out.println("Soy Nicanor");
+
     }
     
 }
